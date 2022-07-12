@@ -1,1 +1,1 @@
-# projectassignmentjobportal
+# job-portal-app
